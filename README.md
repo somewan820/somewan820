@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @somewan820
 - ⚡ Base: Shenzhen, Guangdong in cn 
 - 👀 I’m interested in cs
-- 🌱 I’m currently learning sys/os Rust/Go
+- 🌱 I’m currently learning Go/Java
 - 📫 How to reach me WeChat: Somed2wan820
 
 <!---
