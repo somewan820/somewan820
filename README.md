@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @somewan820
-- ⚡ Base: Shenzhen, Guangdong in cn 
-- 👀 I’m interested in cs
-- 🌱 I’m currently learning Go/Java
+* 👋 Hi, I'm @somewan820
+* ⚡ Base: Shenzhen, Guangdong, China
+* 👀 Interested in CS — full-stack engineering & AI agents
+* 🌱 Currently learning Go · Java · TypeScript · Vue · React · and diving deeper into AI agent development
 
 
 <!---
